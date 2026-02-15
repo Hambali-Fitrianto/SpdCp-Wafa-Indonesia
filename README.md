@@ -149,6 +149,36 @@ Admin dashboard dibuat menggunakan TailwindCSS:
 
 ---
 
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+![Login Page](./login.jpeg)
+
+Halaman login admin dengan authentication Laravel Sanctum.
+
+---
+
+### 📊 Dashboard
+![Dashboard](./dashboard.jpeg)
+
+Dashboard analytics untuk melihat statistik data leads dan aktivitas sistem.
+
+---
+
+### 👥 Leads Management
+![Leads Management](./leads.jpeg)
+
+Fitur CRUD data leads lengkap dengan search dan filtering.
+
+---
+
+### 🧾 Activity Logs (Audit Trail)
+![Activity Logs](./logs.jpeg)
+
+Pencatatan otomatis seluruh aktivitas admin sebagai audit keamanan sistem.
+
+---
+
 ## 🎯 Tujuan Project
 
 Project ini menunjukkan kemampuan:
